@@ -26,7 +26,7 @@ class SnapStreamPlugin(TemplatePlugin, AssetPlugin, SettingsPlugin):
 
 				# use github release method of version check
 				type="github_release",
-				user="markwal",
+				user="sidddy",
 				repo="OctoPrint-SnapStream",
 				current=self._plugin_version,
 
